@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
+  githubUsername: "Sprinterson",
+  name: "Charles Raviaud",
+  designation: "Frontend Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "charles.raviaud@protonmail.com",
+  phone: "+33 659555775",
+  address: "Paris, France",
   projects: [
     {
       title: "Tailwind Master Kit",
@@ -108,8 +108,8 @@ const userData = {
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    linkedin: "https://www.linkedin.com/in/charles-raviaud/",
+    github: "https://github.com/Sprinterson/",
     facebook: "https://facebook.com/",
   },
 };
